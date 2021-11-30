@@ -1,0 +1,38 @@
+Import-Csv C:\script\NewUsersFinal.csv -Delimiter ";" | Format-Table
+
+PS C:\script> Import-Csv C:\script\NewUsersFinal.csv -Delimiter ";" | Format-Table
+
+FirstName Initials Lastname Username        Email                                StreetAddress City   ZipCode State Cou
+                                                                                                                    ntr
+                                                                                                                    y
+--------- -------- -------- --------        -----                                ------------- ----   ------- ----- ---
+Max       MF       Fraser   Max.Fraser      Max.Fraser@docent.curiotest.nl       21 Baker St   London NW1 6XE       Uni
+Piers     PB       Bower    Piers.Bower     Piers.Bower@docent.curiotest.nl      21 Baker St   London NW1 6XE       Uni
+Kylie     KD       Davidson Kylie.Davidson  Kylie.Davidson@docent.curiotest.nl   21 Baker St   London NW1 6XE       Uni
+Richard   RG       Grant    Richard.Grant   Richard.Grant@docent.curiotest.nl    21 Baker St   London NW1 6XE       Uni
+Boris     BC       Campbell Boris.Campbell  Boris.Campbell@docent.curiotest.nl   21 Baker St   London NW1 6XE       Uni
+Nicholas  NM       Murray   Nicholas.Murray Nicholas.Murray@docent.curiotest.nl  21 Baker St   London NW1 6XE       Uni
+Leonard   LC       Clark    Leonard.Clark   Leonard.Clark@docent.curiotest.nl    21 Baker St   London NW1 6XE       Uni
+Ruth      RD       Dickens  Ruth.Dickens    Ruth.Dickens@docent.curiotest.nl     21 Baker St   London NW1 6XE       Uni
+Jonathan  JF       Fisher   Jonathan.Fisher Johnathan.Fisher@docent.curiotest.nl 21 Baker St   London NW1 6XE       Uni
+Grace     GR       Rees     Grace.Rees      Grace.Rees@docent.curiotest.nl       21 Baker St   London NW1 6XE       Uni
+
+
+PS C:\script>
+Press Enter to exit:
+
+PS C:\script> .\ADD-NEWUSER.PS1
+The user account Max.Fraser is created.
+The user account Piers.Bower is created.
+The user account Kylie.Davidson is created.
+The user account Richard.Grant is created.
+The user account Boris.Campbell is created.
+The user account Nicholas.Murray is created.
+The user account Leonard.Clark is created.
+The user account Ruth.Dickens is created.
+The user account Jonathan.Fisher is created.
+The user account Grace.Rees is created.
+Press Enter to exit:
+
+PS C:\script>
+

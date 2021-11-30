@@ -1,0 +1,11 @@
+FirstName;Initials;Lastname;Username;Email;StreetAddress;City;ZipCode;State;Country;Department;Password;Telephone;JobTitle;Company;OU
+Max;MF;Fraser;Max.Fraser;Max.Fraser@Lumo.nl;21 Baker St;London;NW1 6XE;;United Kingdom;IT;Wachtwoord123!;44123456780;Engineer;DOCENT;OU=ICT,OU=Lumo,DC=Lumo,DC=nl
+Piers;PB;Bower;Piers.Bower;Piers.Bower@Lumo.nl;21 Baker St;London;NW1 6XE;;United Kingdom;IT;Wachtwoord123!;44123456781;Manager;DOCENT;OU=A&S,OU=Lumo,DC=Lumo,DC=nl
+Kylie;KD;Davidson;Kylie.Davidson;Kylie.Davidson@Lumo.nl;21 Baker St;London;NW1 6XE;;United Kingdom;IT;Wachtwoord123!;44123456782;Engineer;DOCENT;OU=ICT,OU=Lumo,DC=Lumo,DC=nl
+Richard;RG;Grant;Richard.Grant;Richard.Grant@Lumo.nl;21 Baker St;London;NW1 6XE;;United Kingdom;IT;Wachtwoord123!;44123456783;Teamleader;DOCENT;OU=Management,OU=Lumo,DC=Lumo,DC=nl
+Boris;BC;Campbell;Boris.Campbell;Boris.Campbell@Lumo.nl;21 Baker St;London;NW1 6XE;;United Kingdom;IT;Wachtwoord123!;44123456784;Engineer;DOCENT;OU=R&D,OU=Lumo,DC=Lumo,DC=nl
+Nicholas;NM;Murray;Nicholas.Murray;Nicholas.Murray@Lumo.nl;21 Baker St;London;NW1 6XE;;United Kingdom;IT;Wachtwoord123!;44123456785;Manager;DOCENT;OU=Verkoop,OU=Lumo,DC=Lumo,DC=nl
+Leonard;LC;Clark;Leonard.Clark;Leonard.Clark@Lumo.nl;21 Baker St;London;NW1 6XE;;United Kingdom;IT;Wachtwoord123!;44123456786;Engineer;DOCENT;OU=ICT,OU=Lumo,DC=Lumo,DC=nl
+Ruth;RD;Dickens;Ruth.Dickens;Ruth.Dickens@Lumo.nl;21 Baker St;London;NW1 6XE;;United Kingdom;IT;Wachtwoord123!;44123456787;Engineer;DOCENT;OU=Productie,OU=Lumo,DC=Lumo,DC=nl
+Jonathan;JF;Fisher;Jonathan.Fisher;Johnathan.Fisher@Lumo.nl;21 Baker St;London;NW1 6XE;;United Kingdom;IT;Wachtwoord123!;44123456788;Engineer;DOCENT;OU=Verkoop,OU=Lumo,DC=Lumo,DC=nl
+Grace;GR;Rees;Grace.Rees;Grace.Rees@Lumo.nl;21 Baker St;London;NW1 6XE;;United Kingdom;IT;Wachtwoord123!;44123456789;Engineer;DOCENT;OU=Productie,OU=Lumo,DC=Lumo,DC=nl
